@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muhammeds88
-- 👀 I’m interested in coding in Python.
+- 👀 I’m interested in Full Stack Developer.
 - I am a BTech Student.
 - 🌱 I’m currently learning software development.
 - 💞️ I’m looking to collaborate on software engineer.
